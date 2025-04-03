@@ -1,6 +1,13 @@
 # Hello, I'm Ashwani Patel 👩‍💻
 Welcome to my GitHub! I'm a passionate software developer specializing in web development, Mern Stack and machine learning. I believe in writing clean and efficient code that solves real-world problems.
 
+## 🚀 My Skills
+
+- **Languages**: JavaScript, C++, Python, SQL
+- **Frameworks**: React, Node.js, Express, MongoDB
+- **Tools**: Git, Docker, Firebase, AWS
+- **Databases**: MongoDB, PostgreSQL
+- **Other**: RESTful APIs, GraphQL, Web Scraping, Authentication, Deployment (Heroku, Netlify)
 
 
 
